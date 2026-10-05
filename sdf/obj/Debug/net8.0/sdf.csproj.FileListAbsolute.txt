@@ -1,0 +1,14 @@
+C:\Users\1412\source\repos\sdf\sdf\bin\Debug\net8.0\sdf.exe
+C:\Users\1412\source\repos\sdf\sdf\bin\Debug\net8.0\sdf.deps.json
+C:\Users\1412\source\repos\sdf\sdf\bin\Debug\net8.0\sdf.runtimeconfig.json
+C:\Users\1412\source\repos\sdf\sdf\bin\Debug\net8.0\sdf.dll
+C:\Users\1412\source\repos\sdf\sdf\bin\Debug\net8.0\sdf.pdb
+C:\Users\1412\source\repos\sdf\sdf\obj\Debug\net8.0\sdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1412\source\repos\sdf\sdf\obj\Debug\net8.0\sdf.AssemblyInfoInputs.cache
+C:\Users\1412\source\repos\sdf\sdf\obj\Debug\net8.0\sdf.AssemblyInfo.cs
+C:\Users\1412\source\repos\sdf\sdf\obj\Debug\net8.0\sdf.csproj.CoreCompileInputs.cache
+C:\Users\1412\source\repos\sdf\sdf\obj\Debug\net8.0\sdf.dll
+C:\Users\1412\source\repos\sdf\sdf\obj\Debug\net8.0\refint\sdf.dll
+C:\Users\1412\source\repos\sdf\sdf\obj\Debug\net8.0\sdf.pdb
+C:\Users\1412\source\repos\sdf\sdf\obj\Debug\net8.0\sdf.genruntimeconfig.cache
+C:\Users\1412\source\repos\sdf\sdf\obj\Debug\net8.0\ref\sdf.dll
